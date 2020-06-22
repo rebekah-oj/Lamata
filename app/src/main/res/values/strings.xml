@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lamata</string>
+    <string name="cancel">CANCEL</string>
+    <string name="tap_customer_s_card_to_continue">Tap customer\'s card to continue</string>
+</resources>
